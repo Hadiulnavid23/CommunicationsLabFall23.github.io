@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.center-title {
+    text-align: center;
+}
+
+.character-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.character {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.character img {
+    width: 10vw;
+    height: 10vw;
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+
+.comic-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+
+.comic-square {
+    width: 150px;
+    height: 150px;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+
+
+/* Add this CSS to style the bubble for each square */
+.bubble {
+    display: none;
+    position: absolute;
+    background-color: rgba(56, 198, 245, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+    transform: translateX(-50%);
+}
+
+#bubble1 {
+    z-index: 1;
+    font-size: 18px;
+    top: -30px;
+    left: 5%;
+}
+#bubble2 {
+    font-size: 18px;
+    top: -30px;
+    left: 98%;
+}
+#bubble3 {
+    font-size: 18px;
+    top: 80px;
+    left: 2%;
+}
+#bubble4 {
+    font-size: 18px;
+    top: 80px;
+    left:98%;
+}
+
+/* Add this CSS to style the bubble for each square */
+.row .comic-square {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    position: relative;
+}
+
+/* Add this CSS to position the bubbles above the squares */
+.row .comic-square:hover .bubble {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
