@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/home.css" />
+    <title>Freshman Fables: Noora’s Arabian Awakening at NYUAD</title>
+  </head>
+  <body>
+    <header>
+      <h1 class="center-title">
+        Freshman Fables: Noora’s Arabian Awakening at NYUAD
+      </h1>
+    </header>
+    <main>
+      <h3>Main Character Introductions</h3>
+      <section class="character-section">
+        <div class="row">
+          <div class="character">
+            <img
+              src="98119356_2380350948929576_736596125443686400_n.png"
+              alt="Noora"
+            />
+            <p>Noora</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="character">
+            <img
+              src="98119356_2380350948929576_736596125443686400_n.png"
+              alt="Tasnim"
+            />
+            <p>Tasnim</p>
+          </div>
+          <div class="character">
+            <img
+              src="98119356_2380350948929576_736596125443686400_n.png"
+              alt="Rija"
+            />
+            <p>Rija</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="character">
+            <img
+              src="98119356_2380350948929576_736596125443686400_n.png"
+              alt="Nusra"
+            />
+            <p>Nusra</p>
+          </div>
+          <div class="character">
+            <img
+              src="98119356_2380350948929576_736596125443686400_n.png"
+              alt="Maimuna"
+            />
+            <p>Maimuna</p>
+          </div>
+        </div>
+      </section>
+      <h3>Noora's Four Years of NYUAD Journey</h3>
+      <section class="comic-section">
+        <div class="row">
+          <div
+            class="comic-square"
+            onmouseover="showBubble('bubble1')"
+            onmouseout="hideBubble('bubble1')"
+            onclick="navigateToPage('freshmenyear.html')"
+          >
+            Square 1
+            <div class="bubble" id="bubble1">
+              Clicking Noora's freshman year journey will unlock a journey
+              through her overwhelming and exciting days to transitioning to
+              adult life.
+            </div>
+          </div>
+          <div
+            class="comic-square"
+            onmouseover="showBubble('bubble2')"
+            onmouseout="hideBubble('bubble2')"
+            onclick="navigateToPage('sophomore.html')"
+          >
+            Square 2
+            <div class="bubble" id="bubble2">
+              Sophomore year reflects emotions Happiness + Excitement + Doubt
+              for Noora
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div
+            class="comic-square"
+            onmouseover="showBubble('bubble3')"
+            onmouseout="hideBubble('bubble3')"
+            onclick="navigateToPage('junior.html')"
+          >
+            Square 3
+            <div class="bubble" id="bubble3">
+              Junior year reflects emotions Tire + Inferiority Complex + Growth
+            </div>
+          </div>
+          <div
+            class="comic-square"
+            onmouseover="showBubble('bubble4')"
+            onmouseout="hideBubble('bubble4')"
+            onclick="navigateToPage('senior.html')"
+          >
+            Square 4
+            <div class="bubble" id="bubble4">
+              Senior year reflects emotions Fear + Getting a Hold of Things +
+              Success
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <audio id="popSound" src="bubble-sound-43207.mp3"></audio>
+    <script src="script.js"></script>
+  </body>
+</html>
