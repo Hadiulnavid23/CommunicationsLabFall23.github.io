@@ -4,14 +4,14 @@
 [The Hosted Comic Strip:](Website url: https://communicationslabfall23.github.io/ComicStrip/)
 
 
-
+# Noora's Emotion Palette->A Journey Through Undergrad
 
 
 
 
 We divided Noora's NYUAD journey in 4 years of her undergrad, allowing her to grow and come in terms with the emotions. Each year tried to work with a separate palette of emotions, all together combining and championing the growth of Noora
 
-# Freshman Fables: Noora’s Arabian Awakening at NYUAD - Year of Confusion + Overwhelm + Curiosity
+## Freshman Fables: Noora’s Arabian Awakening at NYUAD - Year of Confusion + Overwhelm + Curiosity
 
 **Project Description:**
 Freshman Fables is a web-based interactive comic strip that chronicles Noora's journey through her four years at NYUAD. The comic explores Noora's experiences as she arrives at the university, makes new friends, faces challenges, and grows into a confident senior. The story captures the essence of cultural diversity, friendship, personal growth, and the unique environment of NYUAD.
@@ -26,7 +26,7 @@ As the project evolved, it successfully conveyed the intended message and experi
 
 ---
 
-# Sophomore Sagas: Noora’s Odyssey of Discovery at NYUAD  - Year of Happiness + Excitement + Doubt
+## Sophomore Sagas: Noora’s Odyssey of Discovery at NYUAD  - Year of Happiness + Excitement + Doubt
 
 **Project Description:**
 Sophomore Sagas is the sequel to Freshman Fables, continuing Noora's story as she progresses to her sophomore year at NYUAD. The comic explores her academic and extracurricular pursuits, emphasizing her growing confidence and leadership skills.
@@ -41,7 +41,7 @@ Sophomore Sagas successfully continues the narrative and growth of Noora, showin
 
 ---
 
-# Junior Journeys: Noora's Dive into Depth at NYUAD - Year of Tire + Inferiority Complex + Growth
+## Junior Journeys: Noora's Dive into Depth at NYUAD - Year of Tire + Inferiority Complex + Growth
 
 **Project Description:**
 Junior Journeys takes Noora to new horizons as she embarks on study-away experiences and faces academic challenges. The comic explores her academic journey and personal struggles.
@@ -56,7 +56,7 @@ Junior Journeys effectively showcases the ups and downs of Noora's academic jour
 
 ---
 
-# Senior Chronicles: Noora's Lasting Legacy at NYUAD - Year of Fear + Getting a Hold of Things + Success
+## Senior Chronicles: Noora's Lasting Legacy at NYUAD - Year of Fear + Getting a Hold of Things + Success
 
 **Project Description:**
 Senior Chronicles marks the culmination of Noora's journey at NYUAD as she prepares for graduation. The comic celebrates her achievements and the legacy she leaves behind.
@@ -70,7 +70,10 @@ Senior Chronicles marks the culmination of Noora's journey at NYUAD as she prepa
 Senior Chronicles brings Noora's journey to a heartwarming conclusion, capturing her achievements and the emotions of her senior year. The comic effectively engages the readers, allowing them to experience Noora's journey from a freshman to a confident senior. We hope the readers appreciate the journey, the growth, and the legacy Noora leaves behind.
 
 
-# Role and Contribution:
+---
+
+
+## Role and Contribution:
 Our team's collaborative effort played a crucial role in the development of this four-year comic journey. The work involved a dynamic workflow that encompassed various stages of storytelling and visual representation. Here are the key contributions of the team members, including Hazza, Maisha, and Navid:
 
 - **Scripting a Story:** The project began with the task of scripting a compelling and cohesive narrative that would span Noora's four years at NYUAD. This involved developing a storyline that effectively conveyed her growth and the challenges she encountered throughout her journey.
